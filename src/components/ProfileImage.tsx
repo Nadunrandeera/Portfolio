@@ -2,7 +2,7 @@ const ProfileImage = () => {
   return (
     <div className="relative w-48 h-48 mx-auto mb-8">
       <img
-        src="src\img\WhatsApp Image 2024-12-02 at 01.30.07_bbcb9b26.jpg"
+        src="https://avatars.githubusercontent.com/u/126862247?v=4"
         alt="Your Name"
         className="rounded-full w-full h-full object-cover shadow-lg ring-4 ring-blue-600 dark:ring-blue-500"
       />
